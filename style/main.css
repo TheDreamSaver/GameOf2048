@@ -1015,3 +1015,12 @@ a.retry-button {
   float: center;
   display: none;
 }
+
+#footie {
+  font-size: 15px;
+  text-align: center;
+}
+
+#footie > a {
+  text-decoration: none;
+}
