@@ -1013,4 +1013,5 @@ a.learn-low {
 a.retry-button {
   margin-left: 10px;
   float: center;
+  display: none;
 }
